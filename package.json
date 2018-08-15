@@ -1,6 +1,7 @@
 {
 	"author": "Daniel Alabuja",
 	"description": "This is me trying to learn Node.js",
+	"keywords": ["First, Interview, Developer"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
